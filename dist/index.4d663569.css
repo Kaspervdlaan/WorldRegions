@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000;
+}
+
+main {
+  max-width: 1000px;
+  margin: 20px auto;
+}
+
+li {
+  background-color: #646464;
+  padding: 20px;
+  list-style: none;
+}
+
+li:nth-child(2n) {
+  background-color: gray;
+}
+
+p {
+  margin: 10px 0;
+}
+
+.Antarctic {
+  color: #faebd7;
+}
+
+.Polar {
+  color: #fff;
+}
+
+.Asia {
+  color: red;
+}
+
+.Africa {
+  color: #00f;
+}
+
+.Americas {
+  color: #7cfc00;
+}
+
+.Oceania {
+  color: purple;
+}
+
+.Europe {
+  color: #ff0;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */

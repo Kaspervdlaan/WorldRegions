@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    max-width: 1000px;
+    margin: 20 auto;
+}
+
+li {
+    padding: 20px;
+    list-style: none;
+    background-color: #646464;
+}
+
+li:nth-child(even) {
+    background-color: grey;
+}
+
+p {
+    margin: 10px 0px;
+}
+
+.Antarctic {
+    color: antiquewhite;
+}
+
+.Polar {
+    color: white;
+}
+
+.Asia {
+    color: red;
+}
+
+.Africa {
+    color: blue;
+}
+
+.Americas {
+    color: lawngreen;
+}
+
+.Oceania {
+    color: purple;
+}
+
+.Europe {
+    color: yellow;
+}
